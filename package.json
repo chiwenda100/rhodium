@@ -3,6 +3,7 @@
     "axios": "^1.12.2",
     "bootstrap": "^4.6.2",
     "bootstrap-vue": "^2.23.1",
+    "copy-file": "^11.1.0",
     "vue": "^2.7.16"
   }
 }
